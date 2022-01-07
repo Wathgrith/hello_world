@@ -1,5 +1,5 @@
 # hello_world
 
-My first repository in github
+My first repository in github.
 
 I love 📖, 🍕 and ☀️.
